@@ -1,0 +1,6 @@
+﻿{
+  "mysqlconnection": {
+    "blog": "server=localhost;user id=root;password=jV2@4J*#yGavSFZS1@Hl;persistsecurityinfo=True;port=3307;database=blog",
+    "production": "server=localhost;user id=root;password=jV2@4J*#yGavSFZS1@Hl;persistsecurityinfo=True;port=3307;database=blog"
+  }
+}
